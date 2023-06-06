@@ -4,11 +4,6 @@ hchoe4
 32242362
 hchoe4@u.rochester.edu
 
-Guruansh Kohli
-gkohli3
-32347678
-gkohli3@u.rochester.edu
-
 Huffman Coding
 
 This Java project is an implementation of Huffman coding, a lossless data compression algorithm.
